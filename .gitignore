@@ -1,4 +1,6 @@
-.parcel-cache
+.cache
 .env
+.idea
+.parcel-cache
 dist
 node_modules
